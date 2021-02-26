@@ -27,7 +27,7 @@ def checkIsAP(arr, n):
     return True
 
   
-# Driver code 
+# next 
 
 arr = [180, 30, 180, 80, 130, 130] 
 
