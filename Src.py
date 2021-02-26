@@ -36,4 +36,3 @@ n = len(arr)
 print("Yes") if(checkIsAP(arr, n)) else print("No") 
 
   
-# This code is contributed by Anant Agarwal. 
